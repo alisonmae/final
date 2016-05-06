@@ -1,5 +1,5 @@
 html {
-background-color: #12D9E1;
+background-color: #208286;
 text-align: center;
 color: white;
 }
@@ -50,10 +50,10 @@ nav a:focus {
 	outline: none;
 }
 
-/* Effect 7: second border slides up */
+/* Border Transition: Slides Up */
 .cl-effect-7 a {
 	padding: 12px 10px 10px;
-	color: #566473;
+	color: #208286;
 	text-shadow: none;
 	font-weight: 700;
 }
