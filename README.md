@@ -17,7 +17,7 @@
   <br>https://gist.github.com/wh1tney/2ad13aa5fbdd83f6a489 </li>
   </ul>
 
-<h4>Resources I utilized</h4>
+<h4>Resources I utilized:</h4>
 
 <ul>
   <li>Sketch, see link above</li>
@@ -26,6 +26,25 @@
 <br>http://csslint.net/</li>
   <li>FontAwesome for social/footer icons <br> https://fortawesome.github.io/Font-Awesome/</li>
   <li>Web Designer Depot, mainly for quick CSS reference, <br> http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/</li>
+  <li>Google Fonts  <br> https://www.google.com/fonts</li>
   <li></li>
-  <li></li>
+</ul>
+
+<h4>Some things I could have done differently</h4>
+
+<ul>
+  <li>Better communication: I should have voiced my paralyzed state early on, and utilized my instructors, not been so stubborn.</li>
+  <li>Spent a little more time wireframing every exactly before trying to tackle so many graphics</li>
+  <li>Responsive site - could have been pretty simple if I had prioritized my time efficiently</li>
+  <li>Drank more coffee, maybe perhaps finally tried a Red Bull</li>
+
+<h4>Things I Would Like to Add:<h4>
+
+<ul>
+  <li>Lightbox 'About Me' section</li>
+  <li>Writing portfolio, with CSS Handwriting animation</li>
+  <li>Full screen video resume, with pdf download of resume</li>
+  <li>Photo + Video Portfolio, with grid view and lightboxes<li>
+  <li>As stated above, make responsive, my own grid system</li>
+  <li>More CSS Animations within site to make it that much more interactive</li>
 </ul>
