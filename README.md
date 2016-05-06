@@ -27,14 +27,13 @@
   <li>FontAwesome for social/footer icons <br> https://fortawesome.github.io/Font-Awesome/</li>
   <li>Web Designer Depot, mainly for quick CSS reference, <br> http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/</li>
   <li>Google Fonts  <br> https://www.google.com/fonts</li>
-  <li></li>
 </ul>
 
 <h4>Some things I could have done differently</h4>
 
 <ul>
   <li>Better communication: I should have voiced my paralyzed state early on, and utilized my instructors, not been so stubborn.</li>
-  <li>Spent a little more time wireframing every exactly before trying to tackle so many graphics</li>
+  <li>Spent a little more time wireframing everything exactly before trying to tackle so many graphics</li>
   <li>Responsive site - could have been pretty simple if I had prioritized my time efficiently</li>
   <li>Drank more coffee, maybe perhaps finally tried a Red Bull</li>
 
