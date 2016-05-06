@@ -1,11 +1,11 @@
 html {
-background-color: #208286;
+background-color: #white;
 text-align: center;
 color: white;
 }
 
 footer {
-height: 4em;
+height: 0.5em;
 font-family: 'Avenir Next LT Pro Light';
 text-align: center;
 font-size: 10px;
@@ -25,9 +25,9 @@ border-bottom-right-radius: 5px;*/
 
 *:after,
 *::before {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 body {	font-family: 'Avenir Next LT Pro Heavy', sans-serif;
 }
@@ -59,15 +59,15 @@ nav a:focus {
 }
 
 /* Border Transition: Slides Up */
-.cl-effect-7 a {
+.cl-effect a {
 	padding: 12px 10px 10px;
 	color: #208286;
 	text-shadow: none;
 	font-weight: 700;
 }
 
-.cl-effect-7 a::before,
-.cl-effect-7 a::after {
+.cl-effect a::before,
+.cl-effect a::after {
 	position: absolute;
 	top: 100%;
 	left: 0;
@@ -83,24 +83,24 @@ nav a:focus {
 	transform: scale(0.85);
 }
 
-.cl-effect-7 a::after {
+.cl-effect a::after {
 	opacity: 0;
 	-webkit-transition: top 0.3s, opacity 0.3s, -webkit-transform 0.3s;
 	-moz-transition: top 0.3s, opacity 0.3s, -moz-transform 0.3s;
 	transition: top 0.3s, opacity 0.3s, transform 0.3s;
 }
 
-.cl-effect-7 a:hover::before,
-.cl-effect-7 a:hover::after,
-.cl-effect-7 a:focus::before,
-.cl-effect-7 a:focus::after {
+.cl-effect a:hover::before,
+.cl-effect a:hover::after,
+.cl-effect a:focus::before,
+.cl-effect a:focus::after {
 	-webkit-transform: scale(1);
 	-moz-transform: scale(1);
 	transform: scale(1);
 }
 
-.cl-effect-7 a:hover::after,
-.cl-effect-7 a:focus::after {
+.cl-effect a:hover::after,
+.cl-effect a:focus::after {
 	top: 0%;
 	opacity: 1;
 }
