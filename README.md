@@ -39,13 +39,13 @@
   <li>Responsive site - could have been pretty simple if I had prioritized my time efficiently</li>
   <li>Drank more coffee, maybe perhaps finally tried a Red Bull</li>
 
-<h4>Things I Would Like to Add:<h4>
+<h4>Things I Would Like to Add:</h4>
 
 <ul>
   <li>Lightbox 'About Me' section</li>
   <li>Writing portfolio, with CSS Handwriting animation</li>
   <li>Full screen video resume, with pdf download of resume</li>
-  <li>Photo + Video Portfolio, with grid view and lightboxes<li>
+  <li>Photo + Video Portfolio, with grid view and lightboxes</li>
   <li>As stated above, make responsive, my own grid system</li>
   <li>More CSS Animations within site to make it that much more interactive</li>
 </ul>
