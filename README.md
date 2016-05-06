@@ -34,7 +34,7 @@
   <li>Kirupa, highly recommended resource for CSS Animations/Tutorials - Contains video & walkthroughs <br>https://www.kirupa.com/html5/animating_movement_smoothly_using_css.htm</li>
 </ul>
 
-<h4>Some things I could have done differently</h4>
+<h4>Few Things I could have done differently...</h4>
 
 <ul>
   <li>Better communication: I should have voiced my paralyzed state early on, and utilized my instructors, not been so stubborn.</li>
