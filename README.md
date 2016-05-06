@@ -27,7 +27,7 @@
   <li>FontAwesome for social/footer icons <br> https://fortawesome.github.io/Font-Awesome/</li>
   <li>Web Designer Depot, mainly for quick CSS reference, <br> http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/</li>
   <li>Google Fonts <br> https://www.google.com/fonts</li>
-  <li>Cufonfonts <br>http://www.cufonfonts.com/<li>
+  <li>Cufonfonts <br>http://www.cufonfonts.com/</li>
   <li>Kirupa, highly recommended resource for CSS Animations/Tutorials - Contains video & walkthroughs <br>https://www.kirupa.com/html5/animating_movement_smoothly_using_css.htm</li>
 </ul>
 
