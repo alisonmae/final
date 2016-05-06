@@ -49,3 +49,6 @@
   <li>As stated above, make responsive, my own grid system</li>
   <li>More CSS Animations within site to make it that much more interactive</li>
 </ul>
+
+<h1>Deployed Site:</h1> <h2>alisonmae</h2>
+![Alt text](/relative/path/to/README_heroku.jpg?raw=true "README Heroku Stats")
