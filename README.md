@@ -51,4 +51,4 @@
 </ul>
 
 <h1>Deployed Site:</h1> <h2>alisonmae</h2>
-![Alt text](/relative/path/to/README_heroku.jpg?raw=true "README Heroku Stats")
+<img src="/relative/path/to/README_heroku.jpg?raw=true "README Heroku Stats"
