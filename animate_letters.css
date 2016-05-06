@@ -5,6 +5,7 @@
 	list-style: none;
 	position: relative;
 	width: 100%;
+	text-align: center;
 }
 
 .grid li {
@@ -26,7 +27,8 @@
 	font-weight: 900;
 	line-height: 1;
 	position: relative;
-	color: hsla(0, 0%, 0%, 0.6);
+	color: #EFDF17;
+
 	-webkit-transform-style: preserve-3d;
 	-ms-transform-style: preserve-3d;
 	transform-style: preserve-3d;
@@ -41,18 +43,18 @@
 	position: absolute;
 	content: attr(data-letter);
 	line-height: inherit;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	z-index: 2;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		z-index: 2;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 }
 
 .grid li span:before {
 	text-shadow: none;
-	color: hsla(0, 0%, 0%, 0.12);
+	color: #208286;
 }
 
 
@@ -89,7 +91,7 @@
 	transform: rotateY(-40deg);
 }
 
-/* Right turn */
+/* Turning Right */
 .ot-letter-right span:before,
 .ot-letter-right span:after {
 	-webkit-transform-origin: 100% 50%;
@@ -187,8 +189,7 @@
 	-ms-transform: translateY(0.045em) rotateX(40deg);
 	transform: translateY(0.045em) rotateX(40deg);
 }
-
-/* Example for media query: change number of items per row */
+/* Media Queries */
 @media screen and (max-width: 1190px) {
 	.grid li {
 		width: 20%;
