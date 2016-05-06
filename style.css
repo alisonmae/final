@@ -20,7 +20,7 @@ border-bottom-right-radius: 5px;*/
 }
 
 .social {
-  
+
 }
 /* Navigation */
 
@@ -59,7 +59,7 @@ nav a:focus {
 	outline: none;
 }
 
-/* Border Transition: Slides Up */
+/* Navigation border transition: Slides Up */
 .cl-effect a {
 	padding: 12px 10px 10px;
 	color: #208286;
@@ -106,7 +106,7 @@ nav a:focus {
 	opacity: 1;
 }
 
-/* Animation */
+/* ANIMATION */
 
 /* The GRRReat Grid */
 .grid {
