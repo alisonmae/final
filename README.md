@@ -6,6 +6,8 @@
 <h3>Animation Inspiration:</h3>
  http://www.edenspiekermann.com/projects/kroller-muller-museum/
 
+ <img src="Twitter.png">
+
 <h3>Things I Learned Along the Way:</h3>
 
 <ul>
