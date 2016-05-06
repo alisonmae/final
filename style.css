@@ -5,13 +5,21 @@ color: white;
 }
 
 footer {
+height: 4em;
+font-family: 'Avenir Next LT Pro Light';
+text-align: center;
+font-size: 10px;
+color: #164b4a;
+padding-top: 75px;
+/*-webkit-border-bottom-left-radius: 5px;
+-webkit-border-bottom-right-radius: 5px;
+-moz-border-radius-bottomleft: 5px;
+-moz-border-radius-bottomright: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;*/
+}
 
-}
-fa fa-chevron-down {
-  text-align: center;
-  font-size: 25px;
-  color: white;
-}
+
 
 /* Navigation */
 
